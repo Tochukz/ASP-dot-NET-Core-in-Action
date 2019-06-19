@@ -9,7 +9,7 @@ __See the list of project template offered by .NET CLI__
 __Create a new ASP.NET Core MVC project__  
 * Generate the scaffolding  
 `$ dotnet new mvc -o  MyApp`  
-* Restore dependency `dotnet restore`. Froom .NET CLI 2.0, this is done automatically for you.
+* Restore dependency `dotnet restore`. From .NET CLI 2.0, this is done automatically for you.
 * Build or compile the application  
 `$ dotnet build`  
 * Run the application  
