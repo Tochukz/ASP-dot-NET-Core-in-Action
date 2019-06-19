@@ -1,0 +1,1 @@
+document.getElementById('content').innerHTML = "<p>We are a very good tech company</p>";
